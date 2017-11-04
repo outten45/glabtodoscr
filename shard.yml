@@ -1,0 +1,13 @@
+name: glabtodoscr
+version: 0.1.0
+
+authors:
+  - Richard (jr) Outten <outtenr@gmail.com>
+
+targets:
+  glabtodoscr:
+    main: src/glabtodoscr.cr
+
+crystal: 0.23.1
+
+license: MIT
